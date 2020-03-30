@@ -1,0 +1,1 @@
+//= ../libs/jquery.scrollAnimations-master/dist/jquery.scrollAnimations.js
