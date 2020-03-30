@@ -1,6 +1,6 @@
 .idea/
 bower_components/
-build/
+html/
 node_modules/
 zip/
 .DS_Store
